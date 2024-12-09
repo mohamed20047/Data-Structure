@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "M:/FCAI/fifth term/Data Structure/cmake-build-debug",
-		"source" : "M:/FCAI/fifth term/Data Structure"
+		"build" : "M:/FCAI/fifth term/Data-Structure/cmake-build-debug",
+		"source" : "M:/FCAI/fifth term/Data-Structure"
 	},
 	"version" : 
 	{
